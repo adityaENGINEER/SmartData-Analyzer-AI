@@ -1,0 +1,34 @@
+# Dependencies
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environment variables & secrets
+.env
+.env.local
+*.env
+
+# SQLite local databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Temporary uploads / reports / export caches
+temp/
+tmp/
+uploads/
+reports_output/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
