@@ -7,7 +7,7 @@
 [![Plotly](https://img.shields.io/badge/Plotly-5.18%2B-3F4F75.svg)](https://plotly.com/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-F7931E.svg)](https://scikit-learn.org/)
 [![Tests](https://img.shields.io/badge/Tests-16%20Passed-brightgreen.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]() 
 
 ---
 
