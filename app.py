@@ -8,7 +8,7 @@ import pandas as pd
 from src.ui_components import init_session_state, inject_custom_css, render_sidebar, refresh_profiling
 from src.data_loader import DataLoader
 from src.analytics_engine import AnalyticsEngine
-from src.visualization_engine import VisualizationEngine
+from src.visualization_engine import VisualizationEngine 
 
 # Page configuration
 st.set_page_config(
