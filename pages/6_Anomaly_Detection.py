@@ -9,7 +9,7 @@ from src.anomaly_detector import AnomalyDetector
 
 init_session_state()
 inject_custom_css()
-render_sidebar()
+render_sidebar() 
 
 st.markdown(
     """
