@@ -1,4 +1,4 @@
-"""
+ """
 Safe, untrusted dataset ingestion module for CSV and Excel files.
 Supports multi-sheet Excel files, encoding fallbacks, and content validation.
 """
